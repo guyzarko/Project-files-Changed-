@@ -1,0 +1,63 @@
+.master{
+	  background: url(../img/star-of-celebrity.jpg) 50% 50% / cover no-repeat fixed;
+}
+.login-form{
+	  background: url(../img/celebrity-background.jpg) 50% 50% / cover no-repeat fixed;
+}
+.login-form h1{
+	  margin-bottom: 80px;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 2px #000;
+  text-transform: UPPERCASE;	
+}
+.panel-primary > .panel-heading {
+	  background-color: #BB302D;	
+}
+.panel-primary {
+  border-color: #BB302D;
+}
+.panel input{
+	margin: 3% 0%;
+}
+.panel button{
+	margin: 10px 0 0 0;
+	float:right;
+}
+#center-body{
+	padding: 20px;
+}
+.span9{
+padding:3%;	
+}
+.nav li{
+  display: inline-block;	
+}
+.nav li a{
+	color: white;
+  font-weight: bold;	
+  transition:all ease-in-out 0.5s;
+  -webkit-transition:all ease-in-out 0.5s;
+  -moz-transition:all ease-in-out 0.5s;
+}
+.nav li a:hover{
+	background:#BB302D;
+}
+.span3{
+	  background: black;
+  color: white;
+  padding: 5px;
+  text-align: right;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.cbox{
+  margin-top: 80px;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 2px #000;
+  text-transform: UPPERCASE;	
+}
+
